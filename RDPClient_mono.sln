@@ -1,5 +1,5 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwakeCoding.Common", "AwakeCoding.Common\AwakeCoding.Common.csproj", "{133E9473-8A64-45AF-AEA4-B1A8614F44D8}"
 EndProject
